@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    font-family : 'open Sans', sans-serif;
+    background-color: #efefef;
+
+}
+.main-content{
+    padding-top: 60px;
+    color:#333;
+    
+}
